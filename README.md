@@ -72,7 +72,7 @@ Options:
                            guessing the language based on the file's extension.
 
 Options starting with -g, -f, -m, -O, -W, or --param are automatically
- passed on to the various sub-processes invoked by i686-w64-mingw32-gcc.  
+ passed on to the various sub-processes invoked by c-compiler-32bit.sh.  
 In order to pass other options on to these processes the -W<letter> options must be used.
 
 For bug reporting instructions, please see:
@@ -136,7 +136,7 @@ Options:
                            guessing the language based on the file's extension.
 
 Options starting with -g, -f, -m, -O, -W, or --param are automatically
- passed on to the various sub-processes invoked by x86_64-w64-mingw32-gcc.  
+ passed on to the various sub-processes invoked by c-compiler-64bit.sh.  
 In order to pass other options on to these processes the -W<letter> options must be used.
 
 For bug reporting instructions, please see:
