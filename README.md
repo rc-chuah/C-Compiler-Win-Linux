@@ -76,7 +76,7 @@ Options starting with -g, -f, -m, -O, -W, or --param are automatically
 For bug reporting instructions, please see:
 <https://gcc.gnu.org/bugs/>.
 ```
-### C-Compiler-Win-Linux 32Bit Version Options
+### C-Compiler-Win-Linux 64Bit Version Options
 ```
 Usage: c-compiler-64bit.sh [options] file...
 Options:                                               -pass-exit-codes         Exit with highest error code from a phase.                                       --help                   Display this information.
