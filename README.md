@@ -74,9 +74,6 @@ Options:
 Options starting with -g, -f, -m, -O, -W, or --param are automatically
  passed on to the various sub-processes invoked by c-compiler-32bit.sh.  
 In order to pass other options on to these processes the -W<letter> options must be used.
-
-For bug reporting instructions, please see:
-<https://gcc.gnu.org/bugs/>.
 ```
 ### C-Compiler-Win-Linux 64Bit Version Options
 ```
@@ -138,7 +135,4 @@ Options:
 Options starting with -g, -f, -m, -O, -W, or --param are automatically
  passed on to the various sub-processes invoked by c-compiler-64bit.sh.  
 In order to pass other options on to these processes the -W<letter> options must be used.
-
-For bug reporting instructions, please see:
-<https://gcc.gnu.org/bugs/>.
 ```
